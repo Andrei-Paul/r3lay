@@ -1,0 +1,6 @@
+[submodule "mongoose"]
+	path = mongoose
+	url = https://github.com/cesanta/mongoose.git
+[submodule "net_skeleton"]
+	path = net_skeleton
+	url = https://github.com/cesanta/net_skeleton.git
